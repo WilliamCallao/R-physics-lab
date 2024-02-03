@@ -6,9 +6,15 @@ This repository hosts informative documents on various physics topics, written i
 
 1. **Direct Current Sources**
    - [Link to Document]()
-   - [Script 1]() [Script 2]()
+   - [Script 1](Direct%20Current%20Sources/CurrentSources.R) [Script 2](Direct%20Current%20Sources/case2.R) [Script 3](Direct%20Current%20Sources/case2.R)
 
+2. ****
+   - [Link to Document]()
+   - [Script 1]() [Script 2]() [Script 3]() [Script 4]()
   
+3. ****
+   - [Link to Document]()
+   - [Script 1]() [Script 2]() [Script 3]() [Script 4]()
    
 3. [Error Propagation](Documentation/3%20-%20Medidas%20directas%20y%20propagacion%20de%20errores.pdf))
 4. [Graphs and Equations](Documentation/4%20-%20Graficas%20y%20ecuaciones.pdf))
