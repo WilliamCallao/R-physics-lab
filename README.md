@@ -30,9 +30,9 @@ This repository hosts informative documents on various physics topics, written i
 
 3. **Direct Current Sources**
    - [Link to Document](Documentation/2%20-%20Medidas%20directas%20y%20expresion%20de%20errores.pdf)
-   - [Script 1](Direct%20Current%20Sources/CurrentSources.R) - [Script 2](Direct%20Current%20Sources/case2.R) [Script 3](Direct%20Current%20Sources/case2.R)
+   - [Script 1](Direct%20Current%20Sources/CurrentSources.R) - [Script 2](Direct%20Current%20Sources/case2.R) - [Script 3](Direct%20Current%20Sources/case2.R)
   
 3. **Resistors**
    - [Link to Document](Documentation/9%20-%20Medidas%20de%20resistencia%20electrica.pdf)
-   - [Script 1](Resistance/circuit_simulation.R) [Script 2](Resistance/ohms_law_functions.R) [Script 3](Resistance/resistance_functions.R) [Script 4](Resistance/simulation_functions.R)
+   - [Script 1](Resistance/circuit_simulation.R) - [Script 2](Resistance/ohms_law_functions.R) [Script 3](Resistance/resistance_functions.R) [Script 4](Resistance/simulation_functions.R)
 
