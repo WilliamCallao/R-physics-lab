@@ -22,7 +22,7 @@ This repository hosts informative documents on various physics topics, written i
 
 5. **Kinematics**
    - [Link to Document](Documentation/6%20-%20MRU%20MRUV%20MNU.pdf)
-   - [Script 1](MRU%20MRUV%20MNU/MNU.R) - [Script 2](MRU%20MRUV%20MNU/MRU.R) [Script 3](MRU%20MRUV%20MNU/MRUV.R)
+   - [Script 1](MRU%20MRUV%20MNU/MNU.R) - [Script 2](MRU%20MRUV%20MNU/MRU.R) - [Script 3](MRU%20MRUV%20MNU/MRUV.R)
      
 6. **Ohm's Law**
    - [Link to Document](Documentation/7%20-%20Ley%20de%20Ohm.pdf)
