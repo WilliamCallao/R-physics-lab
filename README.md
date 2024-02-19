@@ -34,5 +34,8 @@ This repository hosts informative documents on various physics topics, written i
   
 3. **Resistors**
    - [Link to Document](Documentation/9%20-%20Medidas%20de%20resistencia%20electrica.pdf)
-   - [Script 1](Resistance/circuit_simulation.R) - [Script 2](Resistance/ohms_law_functions.R) [Script 3](Resistance/resistance_functions.R) [Script 4](Resistance/simulation_functions.R)
+   - [Script 1](Resistance/circuit_simulation.R) - [Script 2](Resistance/ohms_law_functions.R) - [Script 3](Resistance/resistance_functions.R) - [Script 4](Resistance/simulation_functions.R)
 
+3. **MNU**
+   - [Link to Document](Documentation/9%20-%20Medidas%20de%20resistencia%20electrica.pdf)
+   - [Script 1](Resistance/circuit_simulation.R) - [Script 2](Resistance/ohms_law_functions.R) - [Script 3](Resistance/resistance_functions.R) - [Script 4](Resistance/simulation_functions.R)
